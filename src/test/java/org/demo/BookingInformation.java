@@ -10,8 +10,21 @@ public class BookingInformation {
 
 	}
 	private void confirmation() {
-		System.out.println("Login Details");
+		System.out.println("confirmation2 Details");
 
 	}
+	 
+		private void login2() {
+			System.out.println("Login2 Details");
+
+		}
+		private void updat2e() {
+			System.out.println("update2 Details");
+
+		}
+		private void confirmation2() {
+			System.out.println("confirmation2 Details");
+
+		}
 
 }
